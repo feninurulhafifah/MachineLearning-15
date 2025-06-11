@@ -2,3 +2,6 @@ joblib
 pandas
 scikit-learn
 streamlit
+numpy
+seaborn
+scatter
